@@ -1,5 +1,5 @@
 # University_Survivability
-Created by Adam Jones, Belisario Montesinos, and Priya Seejoor
+Created by Priya Seejoor, Adam Jones, and Belisario Montesinos
 Copyright 2020
 All rights reserved
 Google Slides (if you don't have Powerpoint)
